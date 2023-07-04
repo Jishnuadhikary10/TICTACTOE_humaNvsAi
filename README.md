@@ -19,11 +19,16 @@ Have fun playing Tic Tac Toe against the unbeatable AI opponent!
 
 ## Game Snapshots
 
-### Snapshot 1 - Start
-![Snapshot 1](snapshots/s1.png)
+### move1 - Start
+![move1](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/move1.jpg)
 
-### Snapshot 2 - Circle Win
-![Snapshot 2](snapshots/s2.png)
+### move2
+![move2](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/move2.jpg)
 
-### Snapshot 3 - Cross Win
-![Snapshot 3](snapshots/s3.png)
+### move3
+![move3](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/move3.jpg)
+
+### 
+
+### working
+![working](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/working.jpg)
