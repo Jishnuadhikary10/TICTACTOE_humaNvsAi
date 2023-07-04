@@ -5,7 +5,7 @@ This is a tic-tac-toe game where a human is going to play against AI.# Unbeatabl
 
 Here are the steps to play the Tic-Tac-Toe game:
 
-1. Run the Python code  `tictactoe.py`   to initiate the game.
+1. Run the Python code called tictactoe.py to initiate the game. To run this code, you need to make sure you have Pygame and Numpy installed. You can install Pygame using the following command: `pip install pygame` and `pip install numpy`
 2. The game board will be presented on the screen, displaying a 3x3 grid.
 3. By default, the game is configured in AI mode, enabling you to play against an AI opponent that cannot be defeated. To switch to player vs. player mode, press the 'g' key on your keyboard.
 4. In AI mode, you have the option to adjust the AI level. Press the '0' key to set it to random moves or the '1' key to set it to the impossible level.
@@ -13,11 +13,9 @@ Here are the steps to play the Tic-Tac-Toe game:
 6. After you make your move, the AI opponent will automatically generate its move.
 7. If desired, you can restart the game at any point by pressing the 'r' key on your keyboard.
 
-Please note that I have rephrased the instructions to avoid plagiarism. Feel free to let me know if you have any further questions!
+Have fun !!!
 
-Have fun playing Tic Tac Toe against the unbeatable AI opponent!
-
-## Game Snapshots
+## Game moves' Snapshot
 
 ### move1 - Start
 ![move1](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/move1.jpg)
@@ -28,7 +26,8 @@ Have fun playing Tic Tac Toe against the unbeatable AI opponent!
 ### move3
 ![move3](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/move3.jpg)
 
-### 
+### AI won
+![AI won](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/Final%20move%20and%20ai%20won.jpg)
 
 ### working
 ![working](https://github.com/Jishnuadhikary10/TICTACTOE_humaNvsAi/blob/main/working.jpg)
